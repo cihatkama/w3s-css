@@ -1,0 +1,7 @@
+All CSS Padding Properties
+Property	Description
+padding	A shorthand property for setting all the padding properties in one declaration
+padding-bottom	Sets the bottom padding of an element
+padding-left	Sets the left padding of an element
+padding-right	Sets the right padding of an element
+padding-top	Sets the top padding of an element

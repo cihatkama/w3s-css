@@ -1,0 +1,15 @@
+A Small Tip
+All links in HTML are underlined by default. Sometimes you see that links are styled with no underline. The text-decoration: none; is used to remove the underline from links, like this:
+
+Example
+a {
+  text-decoration: none;
+}
+
+All CSS text-decoration Properties
+Property	Description
+text-decoration	Sets all the text-decoration properties in one declaration
+text-decoration-color	Specifies the color of the text-decoration
+text-decoration-line	Specifies the kind of text decoration to be used (underline, overline, etc.)
+text-decoration-style	Specifies the style of the text decoration (solid, dotted, etc.)
+text-decoration-thickness	Specifies the thickness of the text decoration line
